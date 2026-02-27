@@ -1,0 +1,8 @@
+{
+  "project": "tbeam-ota",
+  "version": "v1.0.16",
+  "build_utc": "2026-02-27T05:02:43Z",
+  "sha256": "e326ed66db5ac3c290de4e4b46ddf83013c9fd47d61961c1c0311aab7904e256",
+  "size": 946128,
+  "url": "https://github.com/cpfain/tbeam-ota-public/releases/download/v1.0.16/firmware.bin"
+}
